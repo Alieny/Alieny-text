@@ -1,0 +1,30 @@
+#header{
+
+width:277px;
+height:207px;
+background:url(../impages/1.png);
+
+
+}
+#header1{
+
+width: 277px;
+height: 39px;
+background:url(../impages/2.png) 228px 7px no-repeat #0664d6;
+border-bottom: 1px solid #10259a ;
+}
+#header2{
+width: 277px;
+height: 38px;
+background: url(../impages/3.png) 228px 7px no-repeat #0664d6;
+border-bottom:1px  solid #10259a;
+border-top:1px solid #04abf2; 
+}
+#header3{
+
+width: 277px;
+height: 39px;
+background: url(../impages/3.png) 228px 7px no-repeat #0664d6;
+border-top:1px solid #04abf2; 
+border-bottom:1px solid #10259a ;
+}

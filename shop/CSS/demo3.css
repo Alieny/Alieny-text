@@ -1,0 +1,39 @@
+#header{
+width:270px ;
+height:40px;
+background: url(../impages/d31.png) no-repeat ;
+border:2px solid #6bcdf2;
+   
+
+}
+#header1{
+width:270px ;
+height:40px;
+background:url(../impages/d32.png) no-repeat #181c1f ;
+border:2px solid #6bcdf2;
+border-top:none; 
+}
+#header2{
+width:270px; 
+height:40px;
+background:url(../impages/d33.png) no-repeat #6bcdf2;
+border:2px solid #6bcdf2;
+border-bottom:none;   
+
+}
+#header3{
+width:270px; 
+height:40px;
+background:url(../impages/d34.png) no-repeat #181c1f;
+border:2px solid #6bcdf2;
+border-bottom:none;   
+
+}
+#header4{
+width:270px; 
+height:40px;
+background:url(../impages/d35.png) no-repeat #181c1f;
+border:2px solid #6bcdf2;
+border-top: none;   
+
+}
