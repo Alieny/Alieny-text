@@ -1,0 +1,46 @@
+.fl{
+	float: left;
+}
+.fr{
+	float: right;
+	margin-right:24px;
+	padding-top: 14px;
+
+}
+.i{
+	margin-top: 4px;
+}
+.clear:after{
+	content: '';
+	display: block;
+	clear: both;
+}
+
+
+
+.wrapper{
+	width: 677px;
+	border: 1px solid grey;
+}
+ul li{
+	display: block;
+}
+.top{
+	padding-top: 16px;
+	padding-left: 19px;
+}
+.top li{
+	padding-top: 14px;
+	margin-left: 17px;
+}
+.bottom{
+	padding-top: 20px;
+	padding-left: 18px;
+}
+.bottom li{
+	margin-right:18px; 
+	margin-bottom:20px; 
+}
+p{
+	font: 12px/22px "宋体"
+}
